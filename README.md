@@ -26,3 +26,7 @@ Modern responsive company website built with ReactJS and Bootstrap.
 ```
     yarn start
 ```
+
+## Todo
+
+* Customize website more (Remove sign up, etc)
