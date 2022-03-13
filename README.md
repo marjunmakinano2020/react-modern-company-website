@@ -11,7 +11,7 @@ Modern responsive company website built with ReactJS and Bootstrap.
 1. Clone this repository
 
 ```
-    https://github.com/marjunmakinano2020/react-modern-company-website.git
+    git clone https://github.com/marjunmakinano2020/react-modern-company-website.git
 ```
 
 2. Install packages
