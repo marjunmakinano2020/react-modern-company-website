@@ -10,7 +10,6 @@
 
 .logo-text {
   font: "Josefin Sans";
-
 }
 
 .center-align {
@@ -19,17 +18,14 @@
 
 .black-bg {
   background: black;
-
 }
 
 .white-bg {
   background: white;
-
 }
 
 .primary-bg {
-  background: #B05FFD;
-
+  background: #b05ffd;
 }
 
 .h1-hero {
@@ -45,26 +41,22 @@
   @media screen and (max-width: 480px) {
     font-size: 32px;
   }
-
 }
 
 .hero-text {
   color: #fff;
   font-size: 24px;
   text-align: center;
-
 }
 
 .img-wrap {
   height: 100%;
   max-width: 700px;
   margin: auto;
-
 }
 
 .fit-img {
   width: 100%;
-
 }
 
 .expand-row {

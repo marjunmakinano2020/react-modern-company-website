@@ -29,4 +29,4 @@ Modern responsive company website built with ReactJS and Bootstrap.
 
 ## Todo
 
-* Customize website more (Remove sign up, etc)
+- Customize website more (Remove sign up, etc)
